@@ -17,7 +17,7 @@ The Accident Analysis Dashboard is built using Tableau and provides an interacti
 
 ## Screenshots
 
-![Accident Analysis Dashboard](assets/accident_dashboard.png)
+![Accident Analysis Dashboard](Assets/Dashboard_Accident.PNG)
 
 ## Features
 
